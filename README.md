@@ -72,7 +72,7 @@ I focus on **clean architecture**, **optimized database queries**, and **smooth 
 ---
 
 ## 📫 Contact Me
-**Email:** *(your email here)*  
+**Email:** *(akhandiiit@gmail.com)*  
 I'm always open to collaborating on interesting projects or helping with backend/frontend challenges.
 
 ---
