@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Akhand Pratap Singh  
-### 🚀 Full-Stack Developer | PHP | React.js | Node.js | MySQL | AWS
+### 🚀 Full-Stack Developer | Javascript | React.js | Node.js | PHP | MySQL 
 
 I am a passionate **Full-Stack Developer** with strong experience in building scalable web applications, REST APIs, high-performance backend systems, and modern UI interfaces.  
 I focus on **clean architecture**, **optimized database queries**, and **smooth user experiences**.
